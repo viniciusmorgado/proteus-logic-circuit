@@ -1,2 +1,3 @@
-# proteus-logic-circuit
-Logic Circuit Projects with Proteus
+# Proteus Logic Circuit
+
+A Collection of Logic Circuit Projects with Proteus
